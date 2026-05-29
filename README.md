@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 Hi, I'm Peter Kess
 
-<!--
-**kesspeter33-sudo/kesspeter33-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 I am Data Analyst passionate about transforming raw data into meaningful business insights through dashboards, reporting, and analytics.
+Linkedin:(https://www.linkedin.com/in/kess-peter-bb8510235/) 
+Email: (kesspeter33@gmail.com)
 
-Here are some ideas to get you started:
+# 🛠️ Tools & Specializations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 📊 Power BI Dashboard Development
+* 🗄️ SQL Querying & Data Analysis
+* 🧹 SQL Data Cleaning & Transformation
+* 📈 Excel Data Analysis & Reporting
+* 🐍 Python for Data Analytics (Beginner Level)
+* 🤖 AI Data Scraping & Automation Tools
+* 📉 KPI Reporting & Dashboard Storytelling
+* 🔍 Business & Financial Data Analysis
+* ⚡ Power Query & Data Modeling
+  
