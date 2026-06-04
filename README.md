@@ -15,4 +15,19 @@ View my Resume(https://drive.google.com/drive/folders/1k712O35k464-pcbmf5edmy2pe
 * 📉 KPI Reporting & Dashboard Storytelling
 * 🔍 Business & Financial Data Analysis
 * ⚡ Power Query & Data Modeling
-  
+  📊 Featured Projects
+🚨 Fraud Detection & Risk Monitoring Dashboard
+
+Developed a professional fraud analytics dashboard to monitor suspicious financial transactions, fraud rates, transaction risk patterns, and high-risk transaction types.
+
+Key Features
+Fraud Rate Analysis
+Fraud Amount Tracking
+Transaction Type Monitoring
+KPI Cards & Risk Indicators
+Interactive Filters & Slicers
+Skills Demonstrated
+Data Modeling
+DAX Calculations
+Dashboard Storytelling
+Financial Analytics
