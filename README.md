@@ -31,3 +31,4 @@ Data Modeling
 DAX Calculations
 Dashboard Storytelling
 Financial Analytics
+  view the code:https://github.com/kesspeter33-sudo/kesspeter33-sudo/edit/main/README.md)
