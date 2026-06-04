@@ -30,6 +30,36 @@ View my Resume(https://drive.google.com/drive/folders/1k712O35k464-pcbmf5edmy2pe
 
 :Transaction Type Monitoring
 
+
+2:## 📊 Financial Performance Dashboard
+Portfolio Link: [View Project](https://drive.google.com/drive/folders/1mCp60QrexZEeeKRPfVClqsSwfVqM_H4z?usp=drive_link)
+
+Developed a Power BI dashboard to analyze sales, profit, revenue trends, and business performance across products and countries.
+
+### Key Features
+
+* Revenue Analysis
+* Profit Tracking
+* Sales Performance Monitoring
+* Product Performance Analysis
+* Interactive Filters & Slicers
+
+### Skills Demonstrated
+
+* Power BI
+* DAX
+* Data Modeling
+* Power Query
+* Financial Analytics
+* Dashboard Storytelling
+
+### Project Files
+
+*Dashboard pdf (https://drive.google.com/file/d/1J82L7duU0pL2PuvqPCGMAbdILYcp51li/view?usp=drive_link)
+* Dashboard Screenshots (https://drive.google.com/file/d/11cXbeg1IKiOSh2YpUWahfxSzMKUFevSx/view?usp=drive_link)
+* PBIX File (https://drive.google.com/file/d/1a9S_PFXXoh7YzsV4MkibA9X4_-kHkh6t/view?usp=drive_link)
+
+
 :KPI Cards & Risk Indicators
 
 :Interactive Filters & Slicers
