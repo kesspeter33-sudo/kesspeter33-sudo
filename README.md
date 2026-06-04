@@ -17,6 +17,7 @@ View my Resume(https://drive.google.com/drive/folders/1k712O35k464-pcbmf5edmy2pe
 * ⚡ Power Query & Data Modeling
   📊 Featured Projects
 🚨 Fraud Detection & Risk Monitoring Dashboard
+[Dashboard Screenshot](https://drive.google.com/file/d/1lNxFSqrqyt4SQe-KnqbLtY6GQuE1_6sO/view?usp=drive_link)
 
 Developed a professional fraud analytics dashboard to monitor suspicious financial transactions, fraud rates, transaction risk patterns, and high-risk transaction types.
 
@@ -42,4 +43,16 @@ Developed a professional fraud analytics dashboard to monitor suspicious financi
 
 :Financial Analytics
 
-:  view the code:https://github.com/kesspeter33-sudo/kesspeter33-sudo/edit/main/README.md)
+:  view the code:https:https://github.com/kesspeter33-sudo)
+
+
+
+
+
+
+
+
+
+
+
+
